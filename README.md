@@ -9,4 +9,7 @@ To see the ilias start page in the browser use
  - localhost:8080
 
 In the setup enter the following database strings
+ - host = dw-mysql
+ - database = dw
+ - password = abcdef
   
